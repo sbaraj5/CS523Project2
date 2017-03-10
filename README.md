@@ -21,3 +21,6 @@ python3 ui_madlibs.py
 
 # Sample output
 see Proj2/sample output/
+
+# Demo
+https://youtu.be/czaY-vQi0ac
