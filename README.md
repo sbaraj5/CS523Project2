@@ -1,7 +1,7 @@
 # MadLibs-RNN
 Generate answers to MadLibs-ish styled templates using a RNN/LSTM
 
-Mostly reused code from https://github.com/hunkim/word-rnn-tensorflow 
+Mostly reused code from https://github.com/hunkim/word-rnn-tensorflow by Sung Kim
 
 ...which is mostly reused code from https://github.com/sherjilozair/char-rnn-tensorflow which was inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
 
