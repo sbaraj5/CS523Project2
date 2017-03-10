@@ -1,0 +1,4 @@
+Hello, my name is _________.
+I like to _________.
+My favorite color is _________.
+My favorite animal is a _________.
