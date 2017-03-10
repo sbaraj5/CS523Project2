@@ -24,4 +24,4 @@ python3 ui_madlibs.py
 
 ## MadLibs-RNN
 
-see proj2/sample output/
+see Proj2/sample output/
