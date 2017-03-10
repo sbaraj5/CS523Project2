@@ -14,12 +14,12 @@ To train with default parameters on the tinyshakespeare corpus, run:
 python3 train.py
 ```
 
-To start the GUI and sample from a trained model
+To start the GUI and sample from a trained model. Store madlib templates in "data/".
 ```bash
 python3 ui_madlibs.py
 ```
 
-# Sample output
+# Sample Output
 see Proj2/sample output/
 
 # Demo
