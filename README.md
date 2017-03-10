@@ -1,5 +1,4 @@
 # MadLibs-RNN
-
 Generate answers to MadLibs-ish styled templates using a RNN/LSTM
 
 Mostly reused code from https://github.com/hunkim/word-rnn-tensorflow 
@@ -21,7 +20,4 @@ python3 ui_madlibs.py
 ```
 
 # Sample output
-
-## MadLibs-RNN
-
 see Proj2/sample output/
